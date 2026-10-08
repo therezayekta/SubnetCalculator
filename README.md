@@ -4,7 +4,7 @@ Advanced IPv4/IPv6 subnet calculator — Python CLI + GitHub Pages web app.
 
 ## 🌐 Web App (GitHub Pages)
 
-Live at: `https://<your-username>.github.io/<repo-name>/`
+Live at: `https://therezayekta.github.io/SubnetCalculator/`
 
 All features run in pure JavaScript — no backend needed.
 
